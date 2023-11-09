@@ -7,7 +7,7 @@
 
 <body>
 
-    <x-center></x-center>
+    <x-serena></x-serena>
     <script src="customelements.js"></script>
 </body>
 
